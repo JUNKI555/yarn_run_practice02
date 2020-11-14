@@ -1,4 +1,4 @@
-module.exports = {
+module.exports = (ctx) => ({
   map: ctx.options.map,
   plugins: [
     require('postcss-import'),
@@ -6,4 +6,4 @@ module.exports = {
     require('postcss-nested'),
     require('autoprefixer'),
   ],
-}
+})
