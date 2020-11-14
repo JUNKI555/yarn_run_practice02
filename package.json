@@ -5,6 +5,9 @@
   "repository": "git@github.com:JUNKI555/yarn_run_practice02.git",
   "author": "JUNKI555 <junki555@gmail.com>",
   "license": "WTFPL License",
+  "scripts": {
+    "css": "yarn postcss src/**/*.css -d public/css"
+  },
   "dependencies": {
     "tailwindcss": "^1.9.6"
   },
