@@ -5,6 +5,8 @@
 `yarn css`
 
 ## Reference source
+- 2020/11版：TailwindCSS + PostCSS の開発環境を yarn で構築する | junki555 | zenn
+  - https://zenn.dev/junki555/articles/4a262d03c58c4e993b95
 - Installation Using Tailwind CLI | TailwindCSS
   - https://tailwindcss.com/docs/installation#using-tailwind-cli
 - Using with Preprocessors | TailwindCSS
